@@ -46,6 +46,6 @@ Java Ranch / Code Ranch
 Java 17 API documentation:
  - https://docs.oracle.com/en/java/javase/17/docs/api/index.html
 
-Java tutorial (Java 8 only, sadly, but excellent for all core language material)
- - https://docs.oracle.com/javase/tutorial/
+Java tutorial (Java 8 only, sadly, but excellent for all core language material) (bueno para conceptos como lambdas y así)
+ - https://docs.oracle.com/javase/tutorial/ 
  
